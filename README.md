@@ -3,7 +3,7 @@
 A luxurious, festive and fully responsive Christmas Cake Shop webpage designed with a premium aesthetic.
 Featuring snowfall animation, glass-frost hover effects, elegant typography, and a classy winter theme.
 
-✨ Live Features
+✨ Live Features:
 Feature	Status
 
 Animated Snowfall	✔
@@ -16,7 +16,7 @@ Fully Responsive Layout	✔
 
 Christmas Premium Theme	✔
 
-🎨 Color Palette Used
+🎨 Color Palette Used:
 
 Color	Hex
 Cream	#EFECE3
@@ -27,7 +27,7 @@ Deep Blue	#4A70A9
 
 Black	#000000
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
 Component	Technology
 Structure	HTML
 Styling	CSS
