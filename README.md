@@ -18,11 +18,11 @@ Christmas Premium Theme	✔
 🎨 Color Palette Used:
 
 Color	Hex
-Cream	#EFECE3
+Cream:	#EFECE3
 
-Soft Blue	#8FABD4
+Soft Blue:	#8FABD4
 
-Deep Blue	#4A70A9
+Deep Blue:	#4A70A9
 
 Black	#000000
 
