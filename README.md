@@ -4,7 +4,6 @@ A luxurious, festive and fully responsive Christmas Cake Shop webpage designed w
 Featuring snowfall animation, glass-frost hover effects, elegant typography, and a classy winter theme.
 
 ✨ Live Features:
-Feature	Status
 
 Animated Snowfall	✔
 
